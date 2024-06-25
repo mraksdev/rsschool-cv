@@ -40,6 +40,30 @@ RS-School Discord: mraksdev(@mraksdev)
 
 ## Experience
 
+### Student Game Developer
+
+**Lesta Studio** - St. Petersburg
+*2022*
+
+* Implemented game logics in Unity
+* Helped troubleshoot and fix issues
+
+[Link](https://github.com/mraksdev/IB_Prototypes) to Project Repo
+
+### Mobile app development
+
+**St. Petersburg Electrotechnical University “LETI”**
+*2022*
+
+* Developed front-end of mobile application using KivyMD
+* Developed back-end of mobile application using Python
+* Gained experience with various front-end technologies and tools
+* Builded application for mobile devices using buildozer
+* Created design of application
+* Presented a mobile application to the jury and took first place among the participants
+
+[Link](https://gitlab.com/mraksdev/stress-app) to Project Repo
+
 ## Languages
 
 * **Russian** - Native
