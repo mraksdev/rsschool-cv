@@ -13,6 +13,12 @@ RS-School Discord: mraksdev(@mraksdev)
 
 ## Skills
 
+* **Languages:** HTML, CSS, Python, C++, C#
+* **Frameworks & Libraries:** Vue.js, KivyMD, Pandas, Matplotlib, Scikit-learn, Numpy, Sass
+* **Tools & Platforms:** Git, NPM
+* **Design:** Figma, Photoshop, InDesign
+* **Other:** Linux, Godot 4.0, Unity, Vim
+
 ## Code examples
 
 ## Education
