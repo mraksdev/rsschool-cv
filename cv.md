@@ -27,3 +27,6 @@ St. Petersburg Electrotechnical University “LETI”
 ## Experience
 
 ## Languages
+
+* **Russian** - Native
+* **English** - C1
