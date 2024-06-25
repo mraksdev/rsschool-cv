@@ -4,6 +4,11 @@
 
 ## Contacts
 
+* **Telegram:** [@mraksdev](https://t.me/mraksdev)
+* **E-mail:** <a.krylov.work@gmail.com>
+
+RS-School Discord: mraksdev(@mraksdev)
+
 ## About
 
 ## Skills
