@@ -11,6 +11,8 @@ RS-School Discord: mraksdev(@mraksdev)
 
 ## About
 
+I'm Alexander Krylov, a recent graduate with a passion for game development and programming. During my academic journey, I focused on computer science, machine learning and web development. In my spare time, I am deeply engrossed in refining my skills as a game developer and coder.
+
 ## Skills
 
 * **Languages:** HTML, CSS, Python, C++, C#
