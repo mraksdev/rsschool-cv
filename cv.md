@@ -21,6 +21,23 @@ RS-School Discord: mraksdev(@mraksdev)
 
 ## Code examples
 
+### Python
+
+1.Task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
+
+```Python
+def descending_order(num):
+    return int("".join(sorted([num for num in str(num)], reverse=True)))
+```
+
+2.Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
+
+```Python
+def xo(s):
+    s = s.lower()
+    return s.count('x') == s.count('o')
+```
+
 ## Education
 
 ### Bachelor of Control in Technical Systems
