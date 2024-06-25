@@ -17,17 +17,20 @@ RS-School Discord: mraksdev(@mraksdev)
 
 ## Education
 
-* **Bachelor degree**
-St. Petersburg Electrotechnical University “LETI”
-Control in Technical Systems
-2018-2022
+### Bachelor of Control in Technical Systems
 
-* **Lesta Game Academy**
-2022
+**St. Petersburg Electrotechnical University “LETI”**
+*2018-2022*
 
-* **High-tech medical systems**
-St. Petersburg Electrotechnical University “LETI”
-2022
+### Lesta Game Academy
+
+**Lesta Studio**
+*2022*
+
+### High-tech medical systems
+
+**St. Petersburg Electrotechnical University “LETI”**
+*2022*
 
 ## Experience
 
