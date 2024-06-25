@@ -2,23 +2,13 @@
 
 <img src="avatar.jpg" width="300px" alt="avatar">
 
-___
-
 ## Contacts
-
-___
 
 ## About
 
-___
-
 ## Skills
 
-___
-
 ## Code examples
-
-___
 
 ## Education
 
@@ -34,10 +24,6 @@ Control in Technical Systems
 St. Petersburg Electrotechnical University “LETI”
 2022
 
-___
-
 ## Experience
-
-___
 
 ## Languages
