@@ -1,6 +1,6 @@
 # Alexander Krylov
 
-<img src="avatar.jpg" width="300px" alt="avatar">
+<img src="assets/avatar.jpg" width="300px" alt="avatar">
 
 ## Contacts
 
