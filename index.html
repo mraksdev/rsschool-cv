@@ -4,29 +4,112 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MyCV</title>
+    <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-    <header>
-        <nav>
-            <li>Contacts</li>
-            <li>About</li>
-            <li>Skills</li>
-            <li>Code examples</li>
-            <li>Education</li>
-            <li>Experience</li>
-            <li>Languages</li>
+    <header class="header">
+        <nav class="nav">
+            <ul class="nav-list">
+                <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                <li class="nav-item"><a href="#about" class="nav-link">About</a></li>    
+                <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+            </ul>
         </nav>
     </header>
     <main class="main">
         <div class="container main-container">
-            <section class="section"></section>
-            <section class="section"></section>
-            <section class="section"></section>
-            <section class="section"></section>
+            <section class="section profile">
+                <div class="profile-title">
+                    <h1 class="main-title">Alexander Krylov</h1>
+                    <h3>Junior Front-End Developer</h3>
+                </div>
+                <img src="assets/avatar.jpg" alt="avatar" class="profile-logo">
+            </section>
+            <section class="section" id="contacts">
+                <h2 class="section-title">Conttacts</h2>
+                <ul class="section-list">
+                    <li class="contact-item">
+                        E-mail:
+                        <a href="mailto:a.krylov.work@gmail.com" title="email" class="link">
+                            a.krylov.work@gmail.com
+                        </a>
+                    </li>
+                    <li class="contact-item">
+                        Github:
+                        <a href="https://github.com/mraksdev" class="link">mraksdev</a>
+                    </li>
+                    <li class="contact-item">
+                        Telegram:
+                        <a href="http://t.me/mraksdev" class="link">@mraksdev</a>
+                    </li>
+                    <li class="contact-item">
+                        Discord:
+                        <span class="item-subtext">mraksdev(@mraksdev)</span>
+                    </li>
+                </ul>
+            </section>
+            <section class="section" id="about">
+                <h2 class="section-title">About</h2>
+                <p>
+                    I'm Alexander Krylov, a recent graduate with a passion for game development and programming. During my academic journey, I focused on computer science, machine learning and web development. In my spare time, I am deeply engrossed in refining my skills as a game developer and coder.
+                </p>
+            </section>
+            <section class="section" id="skills">
+                <h2 class="section-title">Skills</h2>
+                <ul class="section-list">
+                    <li class="section-item">
+                        Languages:
+                        <span class="item-subtext">HTML, CSS, Python, C++, C#</span>
+                    </li>
+                    <li class="section-item">
+                        Frameworks & Libraries:
+                        <span class="item-subtext">Vue.js, KivyMD, Pandas, Matplotlib, Scikit-learn, Numpy, Sass</span>
+                    </li>
+                    <li class="section-item">
+                        Tools & Platforms:
+                        <span class="item-subtext">Git, NPM</span>
+                    </li>
+                    <li class="section-item">
+                        Design:
+                        <span class="item-subtext">Figma, Photoshop, InDesign</span>
+                    </li>
+                    <li class="section-item">
+                        Other:
+                        <span class="item-subtext">Linux, Godot 4.0, Unity, Vim</span>
+                    </li>
+                </ul>
+            </section>
+            <section class="section" id="education">
+                <h2 class="section-title">Education</h2>
+                <ul class="section-list">
+                    <li class="list-item">
+                        Bachelor of Control in Technical Systems:
+                        <span class="item-subtext">St. Petersburg Electrotechnical University “LETI" 2018-2022</span>
+                    </li>
+                    <li class="list-item">
+                        Lesta Game Academy:
+                        <span class="item-subtext">Lesta Studio 2022</span>
+                    </li>
+                    <li class="list-item">
+                        High-tech medical systems:
+                        <span class="item-subtext">St. Petersburg Electrotechnical University “LETI" 2022</span>
+                    </li>
+                </ul>
+            </section>
             <section class="section"></section>
             <section class="section"></section>
             <section class="section"></section>
         </div>
     </main>
+    <footer class="footer">
+        <div class="container footer-container">
+            <div>
+                © 2024
+                <a href="https://github.com/mraksdev" class="github-link nav-link">mraksdev</a>
+            </div>
+            <a href="https://rs.school/courses/javascript-ru" class="rss-link"></a>
+        </div>
+    </footer>
 </body>
 </html>
