@@ -23,7 +23,7 @@ body {
     font-size: 18px;
     font-weight: 450;
     line-height: 1.5;
-    color: #4d2323;
+    color: #270722;
 }
 
 .container{
@@ -33,7 +33,7 @@ body {
 }
 
 .header{
-    background-color: #829985;
+    background-color: #b287a3;
 }
 
 .nav-list{
@@ -88,7 +88,7 @@ h1{
     position: relative;
     padding: 0;
     margin-bottom: 20px;
-    color: #4d2323;
+    color: #270722;
     font-size: 30px;
     font-weight: 300;
     letter-spacing: 10px;
@@ -98,7 +98,7 @@ h1{
 
 h3{
     margin-top: 20px;
-    color: #5c5c5c;
+    color: #e0bad7;
     line-height: 50px;
     font-weight: 300;
     letter-spacing: 3px;
@@ -116,7 +116,7 @@ h3{
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #829985;
+    color: #b287a3;
 }
 
 .section-list{
@@ -134,7 +134,7 @@ h3{
 
 .contact-item a{
     text-decoration: none;
-    color: #829985;
+    color: #b287a3;
     transition: color 0.5s;
 }
 
@@ -146,11 +146,11 @@ h3{
 }
 
 .item-subtext{
-    color: #829985;
+    color: #b287a3;
 }
 
 .footer{
-    background-color: #829985;
+    background-color: #b287a3;
     padding: 20px;
 }
 
