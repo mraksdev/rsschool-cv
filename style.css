@@ -1,0 +1,190 @@
+@font-face {
+    font-family: FiraCode;
+    src: url("assets/fonts/FiraCode.ttf");
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: "FiraCode", sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 320px;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-weight: 450;
+    line-height: 1.5;
+    color: #270722;
+}
+
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+    min-height: 50px;
+}
+
+.header{
+    background-color: #b287a3;
+}
+
+.nav-list{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link{
+    position: relative;
+    padding: 0 12px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 50px;
+    color: #fff;
+}
+
+.main {
+    margin-bottom: auto;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+
+.profile-logo{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15%;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    filter: grayscale(0.2) brightness(1.05);
+    transition: .3s
+}
+
+.profile-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1{
+    position: relative;
+    padding: 0;
+    margin-bottom: 20px;
+    color: #270722;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 10px;
+    line-height: 50px;
+    word-spacing: 4px;
+}
+
+h3{
+    margin-top: 20px;
+    color: #e0bad7;
+    line-height: 50px;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+
+.section{
+    width: calc(50% - 20px);
+    padding: 10px;
+    padding-bottom: 35px;
+}
+
+.section-title{
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #b287a3;
+}
+
+.section-list{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.contact-item{
+    position: relative;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+.contact-item a{
+    text-decoration: none;
+    color: #b287a3;
+    transition: color 0.5s;
+}
+
+.profile{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 50px 30px 35px;
+}
+
+.item-subtext{
+    color: #b287a3;
+}
+
+.footer{
+    background-color: #b287a3;
+    padding: 20px;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.github-link{
+    color: #fff;
+    text-decoration: none;
+    line-height: 45px;
+}
+
+.rss-link{
+    width: 121px;
+    height: 45px;
+    background-image: url(./assets/rs-school-logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+    .profile{
+        flex-direction: column;
+        align-items: center;
+    }
+    .container {
+        padding: 0 20px;
+    }
+}
